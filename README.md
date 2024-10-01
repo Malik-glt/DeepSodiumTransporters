@@ -11,7 +11,7 @@ The dataset is based on two sources. We used the Universal Protein (UniProt) dat
 
 ## Fig. 2: Multiple-window scanning deep learning networks
 
-![](https://github.com/Malik-glt/Unveiling-Therapeutic-Targets/blob/b6477903957709561d9a7b815875bb1638c4656b/Model%20(2).png)
+![](https://github.com/Malik-glt/Unveiling-Therapeutic-Targets/blob/main/Figure_MCNN.png?raw=true)
 
 ## References
 1.	UniProt: the Universal Protein knowledgebase in 2023. Nucleic Acids Research, 2023. 51(D1): p. D523-D531.
