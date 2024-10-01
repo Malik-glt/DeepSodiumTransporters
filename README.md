@@ -3,7 +3,7 @@ This study investigates sodium secondary active transporters' crucial role in di
 
 ## Fig. 1: Our Comprehensive Research Workflow:
 
-![]([[https://github.com/Malik-glt/Unveiling-Therapeutic-Targets/blob/309a2ff75773d76a869c8aa238f08e49c4f8e5ad/sodium%20Architecture.PNG](https://github.com/Malik-glt/Unveiling-Therapeutic-Targets/blob/main/Model%20Work%20Flow.png)](https://github.com/Malik-glt/Unveiling-Therapeutic-Targets/blob/main/Model%20Work%20Flow.png?raw=true))
+![](https://github.com/Malik-glt/Unveiling-Therapeutic-Targets/blob/main/Model%20Work%20Flow.png?raw=true)
 
 # Methodology 
 
