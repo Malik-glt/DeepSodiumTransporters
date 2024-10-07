@@ -17,17 +17,19 @@ We obtained sodium transporter and membrane protein data from Uniprot [1]. Speci
 1.	UniProt: the Universal Protein knowledgebase in 2023. Nucleic Acids Research, 2023. 51(D1): p. D523-D531.
 2.	Elnaggar, A., et al., ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning. IEEE Trans Pattern Anal Mach Intell, 2022. 44(10): p. 7112-7127.
 
-cff-version: 1.2.0
-message: "Please cite the following paper if you use this code:"
-authors:
-  - family-names: "Malik"
-    given-names: "Muhammad Shahid"
-  - family-names: "Ou"
-    given-names: "Yu-Yen"
-title: "Integrating Pre-Trained protein language model and multiple window scanning deep learning networks for accurate identification of secondary active transporters in membrane proteins"
-journal: "Methods"
-volume: "220"
-pages: "11-20"
-year: 2023
-doi: "https://doi.org/10.1016/j.ymeth.2023.10.008"
-url: "https://github.com/yourusername/your-repo"
+## Citation
+
+If you use this repository, please cite the following paper:
+
+```bibtex
+@ARTICLE{malik2023integrating,
+  author = {Muhammad Shahid Malik and Yu-Yen Ou},
+  title = {Integrating Pre-Trained protein language model and multiple window scanning deep learning networks for accurate identification of secondary active transporters in membrane proteins},
+  journal = {Methods},
+  volume = {220},
+  pages = {11--20},
+  year = {2023},
+  publisher = {Elsevier},
+  doi = {10.1016/j.ymeth.2023.10.008}
+}
+
