@@ -39,6 +39,13 @@ python get_esm.py "Pretrained model of ESM" "Your FASTA file folder" "The destin
      - `testing_data.npy`: Contains the testing data.
      - `testing_labels.npy`: Contains the corresponding testing labels.
     
+### Step 3: Execute Prediction
+1. **Navigate to the code folder:**
+   - Change your directory to the `code` folder where the prediction model is located.
+
+2. **Run the Model:**
+   - Open the `mCNN_Sodium.ipynb` file in Jupyter Notebook.
+   - Execute the cells in the notebook to run the model and make predictions based on your dataset.
 
 ## References
 1.	UniProt: the Universal Protein knowledgebase in 2023. Nucleic Acids Research, 2023. 51(D1): p. D523-D531.
