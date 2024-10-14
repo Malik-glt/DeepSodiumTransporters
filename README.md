@@ -25,6 +25,21 @@ python get_ProtTrans.py -in "Your FASTA file folder" -out "The destination folde
 python get_tape.py -in "Your FASTA file folder" -out "The destination folder of your output"
 python get_esm.py "Pretrained model of ESM" "Your FASTA file folder" "The destination folder of your output" --repr_layers 33 --include per_tok
 ```
+### Step 2: Generate Dataset Using Data Features
+1. **Run `length_change.ipynb`:**
+   - Open the `length_change.ipynb` file and specify the following:
+     - The proper paths for the training and testing datasets.
+     - The feature type: use `'pt'` for ProtTrans, `'esm'` for ESM, and `'tape'` for TAPE.
+     - Set the desired sequence length for the study.
+
+2. **Run `Concatenate.ipynb`:**
+   - Execute the `Concatenate.ipynb` file to concatenate all protein sequences. This step will produce the following output files:
+     - `train_data.npy`: Contains the training data.
+     - `train_labels.npy`: Contains the corresponding training labels.
+     - `testing_data.npy`: Contains the testing data.
+     - `testing_labels.npy`: Contains the corresponding testing labels.
+    
+
 ## References
 1.	UniProt: the Universal Protein knowledgebase in 2023. Nucleic Acids Research, 2023. 51(D1): p. D523-D531.
 2.	Elnaggar, A., et al., ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning. IEEE Trans Pattern Anal Mach Intell, 2022. 44(10): p. 7112-7127.
