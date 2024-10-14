@@ -13,6 +13,18 @@ We obtained sodium transporter and membrane protein data from Uniprot [1]. Speci
 
 ![](https://github.com/Malik-glt/Unveiling-Therapeutic-Targets/blob/main/Figure_MCNN.png?raw=true)
 
+## Quick Start
+
+### Step 1: Generate Data Features
+Navigate to the 'data' folder and use the FASTA file to generate additional data features that are saved in the 'dataset' folder..
+
+**Example usage:**
+
+```bash
+python get_ProtTrans.py -in "Your FASTA file folder" -out "The destination folder of your output"
+python get_tape.py -in "Your FASTA file folder" -out "The destination folder of your output"
+python get_esm.py "Pretrained model of ESM" "Your FASTA file folder" "The destination folder of your output" --repr_layers 33 --include per_tok
+```
 ## References
 1.	UniProt: the Universal Protein knowledgebase in 2023. Nucleic Acids Research, 2023. 51(D1): p. D523-D531.
 2.	Elnaggar, A., et al., ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning. IEEE Trans Pattern Anal Mach Intell, 2022. 44(10): p. 7112-7127.
