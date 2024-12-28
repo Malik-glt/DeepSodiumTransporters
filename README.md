@@ -3,7 +3,7 @@ This study focuses on the computational classification of sodium transporters fr
 
 ## Fig. 1: Our Comprehensive Research Workflow:
 
-![]([Figure_Archtectural_1.png](https://github.com/Malik-glt/DeepSodiumTransporters/blob/main/Figure_Archtectural_1.png))
+![](Figure_Archtectural_1.png)
 
 # Methodology 
 
