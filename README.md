@@ -3,7 +3,7 @@ This study focuses on the computational classification of sodium transporters fr
 
 ## Fig. 1: Our Comprehensive Research Workflow:
 
-![](https://github.com/Malik-glt/Unveiling-Therapeutic-Targets/blob/main/Model%20Work%20Flow.png?raw=true)
+![](Figure_Archtectural_1.png)
 
 # Methodology 
 
