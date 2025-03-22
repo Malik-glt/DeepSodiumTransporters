@@ -48,5 +48,19 @@ python get_ProstT5.py -in "Your FASTA file folder" -out "The destination folder 
 1.	UniProt: the Universal Protein knowledgebase in 2023. Nucleic Acids Research, 2023. 51(D1): p. D523-D531.
 2.	Elnaggar, A., et al., ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning. IEEE Trans Pattern Anal Mach Intell, 2022. 44(10): p. 7112-7127.
 
+## Citation
 
+If you use this repository, please cite the following paper:
+
+```bibtex
+@ARTICLE{malik2025,
+  author = {Malik, M. S., Le, V. T., & Ou, Y. Y.},
+  title = {NA_mCNN: Classification of Sodium Transporters in Membrane Proteins by Integrating Multi-Window Deep Learning and ProtTrans for Their Therapeutic Potential},
+  journal = {Journal of Proteome Research},
+  volume = {},
+  pages = {},
+  year = {2025},
+  publisher = {The American Chemical Society},
+  doi = {}
+}
 
