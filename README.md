@@ -61,6 +61,6 @@ If you use this repository, please cite the following paper:
   pages = {},
   year = {2025},
   publisher = {The American Chemical Society},
-  doi = {}
+  doi = {10.1021/acs.jproteome.4c00884}
 }
 
